@@ -15,7 +15,7 @@ export default function Home() {
         </p>
 
         <a
-          href="https://wa.me/905526992637"
+          href="https://api.whatsapp.com/send?phone=905526992637"
           target="_blank"
           className="mt-10 inline-block px-8 py-4 bg-white text-blue-700 rounded-full font-bold hover:bg-gray-200 transition"
         >
