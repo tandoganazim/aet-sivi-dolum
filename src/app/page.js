@@ -3,7 +3,8 @@ export default function Home() {
     <main className="min-h-screen bg-white text-black">
 
       {/* HERO */}
-      <section className="h-screen flex flex-col items-center justify-center text-center px-6 bg-gradient-to-b from-blue-900 to-blue-700 text-white">
+      <section
+className="min-h-[70vh] flex flex-col items-center justify-center"
 
         <h1 className="text-6xl md:text-8xl font-bold">
           A.E.T TEKNO  SIVI DOLUM MAKİNALARI
