@@ -17,12 +17,13 @@ export default function Home() {
 
         <button className="mt-10 px-8 py-4 bg-white text-blue-900 rounded-full font-bold hover:scale-105 transition">
           Teklif Al
-        </button><a
+      <a
   href="https://wa.me/905526992637"
   target="_blank"
   className="mt-10 px-8 py-4 bg-white text-blue-900 rounded-full font-bold hover:bg-gray-200 transition"
 >
   WhatsApp Teklif Al
+</a>
 
       </section>
 
