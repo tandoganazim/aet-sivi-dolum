@@ -2,29 +2,24 @@ export default function Home() {
   return (
     <main className="min-h-screen bg-white text-black">
 
-      {/* HERO */}
-<section className="min-h-[40vh] flex flex-col items-center justify-center bg-blue-700 text-white text-center px-4">
-<h1 className="text-2xl md:text-5xl font-bold text-center">
-  A.E.T TEKNO SIVI DOLUM MAKINALARI
-</h1>
+    
+{/* HERO */}
+<section className="bg-blue-700 text-white text-center py-20 px-4">
+  <h1 className="text-4xl md:text-6xl font-bold">
+    A.E.T TEKNO SIVI DOLUM MAKINALARI
+  </h1>
 
+  <p className="mt-6 text-xl max-w-3xl mx-auto">
+    Endüstriyel sıvı dolum makineleri, otomasyon sistemleri ve profesyonel üretim çözümleri.
+  </p>
 
-
-       
-
-        <p className="mt-6 text-blue-100 max-w-2xl text-lg">
-          Endüstriyel sıvı dolum makineleri,
-          otomasyon sistemleri ve profesyonel
-          üretim çözümleri.
-        </p>
-
-        <a
-  href="https://wa.me/905526992637"
-  target="_blank"
-  className="mt-10 inline-block px-8 py-4 bg-white text-blue-900 rounded-full font-bold hover:bg-gray-200 transition"
->
-  WhatsApp Teklif Al
-</a>
+  <a
+    href="https://wa.me/905526992637"
+    target="_blank"
+    className="mt-10 inline-block px-8 py-4 bg-white text-blue-700 rounded-full font-bold hover:bg-gray-200 transition"
+  >
+    WhatsApp Teklif Al
+  </a>
 
       </section>
 
