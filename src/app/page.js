@@ -3,12 +3,13 @@ export default function Home() {
     <main className="min-h-screen bg-white text-black">
 
       {/* HERO */}
-      <section
-className="min-h-[70vh] flex flex-col items-center justify-center"
-
+<section className="min-h-[70vh] flex flex-col items-center justify-center">
 <h1 className="text-4xl md:text-6xl font-bold">
   A.E.T TEKNO SIVI DOLUM MAKINALARI
 </h1>
+
+
+
        
 
         <p className="mt-6 text-blue-100 max-w-2xl text-lg">
