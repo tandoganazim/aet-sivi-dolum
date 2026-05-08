@@ -15,7 +15,7 @@ export default function Home() {
         </p>
 
         <a
-          href="https://api.whatsapp.com/send?phone=905526992637"
+       href="https://wa.me/905526992637?text=Merhaba"
           target="_blank"
           className="mt-10 inline-block px-8 py-4 bg-white text-blue-700 rounded-full font-bold hover:bg-gray-200 transition"
         >
@@ -93,7 +93,13 @@ export default function Home() {
 
         </div>
       </section>
-
+<a
+  href="https://wa.me/905526992637?text=Merhaba"
+  target="_blank"
+  className="fixed bottom-6 right-6 bg-green-500 text-white px-6 py-4 rounded-full shadow-2xl text-lg font-bold hover:scale-110 transition z-50"
+>
+  WhatsApp
+</a>
     </main>
   );
 }
