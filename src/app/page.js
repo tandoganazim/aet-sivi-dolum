@@ -3,8 +3,8 @@ export default function Home() {
     <main className="min-h-screen bg-white text-black">
 
       {/* HERO */}
-<section className="min-h-[70vh] flex flex-col items-center justify-center">
-<h1 className="text-4xl md:text-6xl font-bold">
+<section className="min-h-[40vh] flex flex-col items-center justify-center bg-blue-700 text-white text-center px-4">
+<h1 className="text-2xl md:text-5xl font-bold text-center">
   A.E.T TEKNO SIVI DOLUM MAKINALARI
 </h1>
 
