@@ -6,7 +6,8 @@ export default function Home() {
       <section
 className="min-h-[70vh] flex flex-col items-center justify-center"
 
-        <h1 className="text-6xl md:text-8xl font-bold">
+       <h1 className="text-4xl md:text-6xl font-bold">
+
           A.E.T TEKNO  SIVI DOLUM MAKİNALARI
         </h1>
 
